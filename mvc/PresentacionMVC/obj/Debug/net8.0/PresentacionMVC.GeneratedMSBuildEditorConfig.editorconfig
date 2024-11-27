@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PresentacionMVC
+build_property.RootNamespace = PresentacionMVC
+build_property.ProjectDir = C:\NCARDONA\ORT\PROGRAMACION 3\OBLIGATORIO 2\Obligatorio2-final\ULTIMO\mvc\PresentacionMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\NCARDONA\ORT\PROGRAMACION 3\OBLIGATORIO 2\Obligatorio2-final\ULTIMO\mvc\PresentacionMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Atleta/AsignarDisciplina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRsZXRhXEFzaWduYXJEaXNjaXBsaW5hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Atleta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRsZXRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/AtletasPorDisciplina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxBdGxldGFzUG9yRGlzY2lwbGluYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/BuscarDisciplina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxCdXNjYXJEaXNjaXBsaW5hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Disciplina/SeleccionarDisciplina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxTZWxlY2Npb25hckRpc2NpcGxpbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Evento/AgregarParticipacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEFncmVnYXJQYXJ0aWNpcGFjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Evento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Evento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Evento/ListadoEventos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXExpc3RhZG9FdmVudG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Evento/VerAtletas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXFZlckF0bGV0YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Usuario/NoAutorizado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xOb0F1dG9yaXphZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NCARDONA/ORT/PROGRAMACION 3/OBLIGATORIO 2/Obligatorio2-final/ULTIMO/mvc/PresentacionMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3iljdtc4cr

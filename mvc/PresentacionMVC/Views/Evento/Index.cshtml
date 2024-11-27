@@ -1,0 +1,63 @@
+﻿@model IEnumerable<DTO.ListadoEventosDTO>
+
+<form method="post" asp-controller="Evento" asp-action="GetEventos">
+    <div class="row">
+        <div class="col-md-3">
+            <label for="id">Id de disciplina:</label>
+            <input type="number" name="id" id="id" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <label for="nombre">Nombre de prueba:</label>
+            <input type="text" name="nombre" id="nombre" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <label for="fechaInicio">Fecha Inicio:</label>
+            <input type="date" name="fechaInicio" id="fechaInicio" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <label for="fechaFin">Fecha Fin:</label>
+            <input type="date" name="fechaFin" id="fechaFin" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <label for="minPje">Puntuación Mínima:</label>
+            <input type="number" name="minPje" id="minPje" class="form-control" step="0.01" />
+        </div>
+        <div class="col-md-3">
+            <label for="maxPje">Puntuación Máxima:</label>
+            <input type="number" name="maxPje" id="maxPje" class="form-control" step="0.01" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Aplicar Filtros</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre de prueba</th>
+            <th>Fecha de inicio</th>
+            <th>Fecha de fin</th>
+            <th>Disciplina</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var evento in Model)
+            {
+                <tr>
+                    <td>@evento.NombrePrueba</td>
+                    <td>@evento.FechaInicial</td>
+                    <td>@evento.FechaFinal</td>
+                    <td>@evento.Disciplina</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No se encontraron eventos.</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+

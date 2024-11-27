@@ -1,0 +1,22 @@
+﻿@model IEnumerable<DTO.ListadoDisciplinasDTO>
+<h1>Buscar disciplina</h1>
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+<form asp-action="Details" method="get">
+    <label for="disciplina">Selecciona una disciplina:</label>
+    <select id="disciplina" name="id" class="form-control" required>
+        @if (Model != null)
+        {
+            @foreach (var disciplina in Model)
+            {
+                <option value="@disciplina.Id">@disciplina.Nombre</option>
+            }
+        }
+
+    </select>
+    <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+</form>
+
+

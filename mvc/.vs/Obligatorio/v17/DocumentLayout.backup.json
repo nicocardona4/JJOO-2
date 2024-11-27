@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\disciplina\\seleccionardisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\disciplina\\seleccionardisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\usuario\\noautorizado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\usuario\\noautorizado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\usuario\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\usuario\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\dto\\altaeventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|solutionrelative:dto\\altaeventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\dto\\altadisciplinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|solutionrelative:dto\\altadisciplinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\disciplina\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\disciplina\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\controllers\\atletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\controllers\\atletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\dto\\eventodemapperacudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|solutionrelative:dto\\eventodemapperacudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\dto\\asignardisciplinasatletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|solutionrelative:dto\\asignardisciplinasatletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\dto\\altausuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|solutionrelative:dto\\altausuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\evento\\agregarparticipacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\evento\\agregarparticipacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|solutionrelative:dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\dto\\participaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDC3F82-17E0-4059-A783-706CE20D1A55}|DTO\\DTO.csproj|solutionrelative:dto\\participaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016030508_keyEvento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016024152_Key-evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016023401_Alta-Evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicolas.cardona\\Downloads\\Obli-12-10\\Obli-12-10\\LogicaDatos\\Migrations\\20241015002609_Codigo-set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|c:\\users\\nicolas.cardona\\downloads\\e-193917-0\\obligatorio\\obligatoriop3\\ultimo\\mvc\\presentacionmvc\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B1CC301-F301-42D4-B1FA-E65749D61305}|PresentacionMVC\\PresentacionMVC.csproj|solutionrelative:presentacionmvc\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeleccionarDisciplina.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\SeleccionarDisciplina.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Disciplina\\SeleccionarDisciplina.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\SeleccionarDisciplina.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Disciplina\\SeleccionarDisciplina.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:39:39.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\Logout.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Usuario\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\Logout.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Usuario\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T11:41:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisciplinaController.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\DisciplinaController.cs",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Controllers\\DisciplinaController.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\DisciplinaController.cs",
+              "RelativeToolTip": "PresentacionMVC\\Controllers\\DisciplinaController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwGYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:55:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PresentacionMVC\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAArwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:45:18.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "PresentacionMVC\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:55:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Evento\\Index.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Evento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Evento\\Index.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Evento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T17:22:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:13:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Details.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Disciplina\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Details.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Disciplina\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:23:41.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Program.cs",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Program.cs",
+              "RelativeToolTip": "PresentacionMVC\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:57:44.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AtletaController.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\AtletaController.cs",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Controllers\\AtletaController.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Controllers\\AtletaController.cs",
+              "RelativeToolTip": "PresentacionMVC\\Controllers\\AtletaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:49:47.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AltaEventoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AltaEventoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AltaEventoDTO.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AltaEventoDTO.cs",
+              "RelativeToolTip": "DTO\\AltaEventoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:50:04.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AsignarDisciplinasAtletaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AsignarDisciplinasAtletaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AsignarDisciplinasAtletaDTO.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AsignarDisciplinasAtletaDTO.cs",
+              "RelativeToolTip": "DTO\\AsignarDisciplinasAtletaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:50:13.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AltaDisciplinaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AltaDisciplinaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AltaDisciplinaDTO.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AltaDisciplinaDTO.cs",
+              "RelativeToolTip": "DTO\\AltaDisciplinaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:11:54.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Disciplina\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Edit.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Disciplina\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:50:52.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Disciplina\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Delete.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Disciplina\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T12:29:30.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Create.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Disciplina\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Disciplina\\Create.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Disciplina\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:32:46.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AltaUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AltaUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AltaUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\AltaUsuarioDTO.cs",
+              "RelativeToolTip": "DTO\\AltaUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:21:04.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AgregarParticipacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Evento\\AgregarParticipacion.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Evento\\AgregarParticipacion.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Evento\\AgregarParticipacion.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Evento\\AgregarParticipacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T01:20:14.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T03:07:07.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventoDeMapperACUDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\EventoDeMapperACUDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EventoDeMapperACUDTO.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\EventoDeMapperACUDTO.cs",
+              "RelativeToolTip": "DTO\\EventoDeMapperACUDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:31:44.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoAutorizado.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\NoAutorizado.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Usuario\\NoAutorizado.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\NoAutorizado.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Usuario\\NoAutorizado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T00:22:28.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "DTO\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:16:48.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ParticipacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\ParticipacionDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ParticipacionDTO.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\DTO\\ParticipacionDTO.cs",
+              "RelativeToolTip": "DTO\\ParticipacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:32:09.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241016030508_keyEvento.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016030508_keyEvento.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016030508_keyEvento.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016030508_keyEvento.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016030508_keyEvento.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:05:08.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241016024152_Key-evento.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016024152_Key-evento.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016024152_Key-evento.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016024152_Key-evento.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016024152_Key-evento.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:41:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241016023401_Alta-Evento.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016023401_Alta-Evento.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016023401_Alta-Evento.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016023401_Alta-Evento.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ULTIMO\\ULTIMO\\LogicaDatos\\Migrations\\20241016023401_Alta-Evento.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:34:01.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241015002609_Codigo-set.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\Obli-12-10\\Obli-12-10\\LogicaDatos\\Migrations\\20241015002609_Codigo-set.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Obli-12-10\\Obli-12-10\\LogicaDatos\\Migrations\\20241015002609_Codigo-set.cs",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\Obli-12-10\\Obli-12-10\\LogicaDatos\\Migrations\\20241015002609_Codigo-set.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Obli-12-10\\Obli-12-10\\LogicaDatos\\Migrations\\20241015002609_Codigo-set.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:26:09.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "PresentacionMVC\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nicolas.cardona\\Downloads\\E-193917-0\\OBLIGATORIO\\ObligatorioP3\\ULTIMO\\mvc\\PresentacionMVC\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "PresentacionMVC\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T23:34:40.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

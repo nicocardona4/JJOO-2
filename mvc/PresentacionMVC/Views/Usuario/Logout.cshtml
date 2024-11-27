@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null; // Si tienes un Layout, elimina esta línea
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Confirmar Cierre de Sesión</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-header bg-warning text-white">
+                Confirmación de Cierre de Sesión
+            </div>
+            <div class="card-body">
+                <p>¿Está seguro de que desea cerrar sesión?</p>
+                <div class="d-flex justify-content-between">
+                    <form asp-controller="Usuario" asp-action="LogoutConfirmado" method="post">
+                        <button type="submit" class="btn btn-danger">Cerrar Sesión</button>
+                    </form>
+                    <a href="javascript:history.back()" class="btn btn-secondary">Cancelar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
